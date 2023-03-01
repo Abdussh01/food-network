@@ -1,0 +1,34 @@
+.flex {
+    display: flex;
+    width: 50%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.half-with {
+    width: 30px;
+    margin-left: 200px;
+}
+
+.micro {
+    margin-left: 20%;
+    margin-top: 170px;
+}
+
+.orange {
+    color: orangered;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 30px;
+    border-radius: 50px;
+}
+
+.text-desc {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
