@@ -41,12 +41,16 @@ h1 {
 
 .pinku {
     margin-left: 10%;
+    margin-top: auto;
 }
 
 .welx {
     display: flex;
     margin-top: 5%;
     background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 
 .tik {
